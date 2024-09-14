@@ -1,0 +1,39 @@
+@media (min-width:577px) and (max-width:859px)  {
+  #signupInput{
+    margin-top: 0;
+  }
+}
+  @media (max-width: 576px) and (max-width: 768px) {
+    #mainContainer{
+        justify-content: center;
+        height: 100vh;
+    }
+    img{
+        display: none;
+    }
+    #signUpBox{
+        height: 400px;
+        width: 80%;
+    }
+    #signUpButton{
+        margin-top: 60px;
+    }
+    #signupInput{
+      margin-top: 0;
+    }
+   
+  }
+  
+  @media screen and (max-width: 800px) {
+    #signUpBox{
+      width: auto;
+   };
+  }
+  @media  (min-width:577px) and (min-width: 859px){
+    #heading1{
+      font-size: large;
+    }
+  }
+  
+  
+  
